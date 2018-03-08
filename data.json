@@ -1,0 +1,52 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "jdoe@example.com",
+      "age": 35
+    },
+    {
+      "id": "2",
+      "name": "Smith Dwade",
+      "email": "smith@example.com",
+      "age": 50
+    },
+    {
+      "id": "3",
+      "name": "Caroline Looker",
+      "email": "caroline@example.com",
+      "age": 32
+    },
+    {
+      "id": "5",
+      "name": "Terry Crews",
+      "email": "terry@example.com",
+      "age": 23
+    },
+    {
+      "id": "6",
+      "name": "Jennet Walters",
+      "email": "jennet@example.com",
+      "age": 65
+    },
+    {
+      "id": "7",
+      "name": "Wade John",
+      "email": "wade@example.com",
+      "age": 43
+    },
+    {
+      "id": "8",
+      "name": "Mr Black",
+      "email": "black@example.com",
+      "age": 37
+    },
+    {
+      "name": "Harry White",
+      "email": "harry@example.com",
+      "age": 37,
+      "id": "9"
+    }
+  ]
+}
